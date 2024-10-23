@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://utervinse.github.io/utervinse.utervinse
+Sitemap: https://utervinse.github.io/app/utervinse.utervinse
+Sitemap: https://utervinse.github.io/assets/utervinse.utervinse
+Sitemap: https://utervinse.github.io/css/utervinse.utervinse
+Sitemap: https://utervinse.github.io/includes/utervinse.utervinse
+Sitemap: https://utervinse.github.io/item/utervinse.utervinse
+Sitemap: https://utervinse.github.io/src/utervinse.utervinse
